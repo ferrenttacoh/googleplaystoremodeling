@@ -9,7 +9,7 @@ This repository was made by me of one of my project at Kampus Merdeka - Independ
 Natural language processing (NLP) is a branch of artificial intelligence that deals with interactions between computers and humans using natural language, one application is Sentiment Analysis. Sentiment analysis is one of the fields of Natural Language Processing (NLP) which builds a system to recognize and extract opinions in text form. Information in the form of text is currently widely available on the internet in the format of forums, blogs, social media, and sites containing reviews. The goal is to get opinions from users on the platform.
 
 # Dataset 
-Open datasets that could be access from kaggle. There's a link to get there: https://www.kaggle.com/datasets/lava18/google-play-store-apps
+Open datasets that could be access from kaggle. There's a link to get there: https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv
 
 # Text Processing
 1. Lowercase & Removing
